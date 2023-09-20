@@ -60,7 +60,7 @@ p {
 }
 
 .header {
-  background: linear-gradient(to bottom, #19355b, rgba(25, 53, 91, 0.4078431373)), url("../assets/images/headerBackground.png");
+  background: linear-gradient(to bottom, #19355b, rgba(25, 53, 91, 0.4078431373)), url("../assets/images/bg.jpg");
   background-position: center;
   background-size: cover;
   color: #fff;
